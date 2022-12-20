@@ -2,7 +2,7 @@
 ## Project: Snake's Cafe
 ### Author: Oliver Speir
 #### Links and Resources
-    Pull Request: https://github.com/OliverSpeir/snakes-cafe/pull/1
+    None
 #### Setup
      N/A
 ##### How to initialize/run your application (where applicable)
